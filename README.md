@@ -291,7 +291,7 @@ Run analytics
 Open:
 
 ```text
-notebooks/weather_etl_demo.ipynb
+notebooks/weather-api-etl-pipeline.ipynb
 ```
 
 The notebook provides a step-by-step demonstration of the complete pipeline.
