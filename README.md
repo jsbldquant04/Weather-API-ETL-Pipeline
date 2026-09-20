@@ -1,5 +1,8 @@
 # 🌦️ Weather API ETL Pipeline
 
+Author: Joshua Bloodymier Salvino
+Date: September 20, 2026
+
 An end-to-end **ETL (Extract, Transform, Load) pipeline** that retrieves weather forecast data from the **Open-Meteo REST API**, processes and validates the data using Python and Pandas, stores the results in a **SQLite database**, and presents the results through an interactive **Plotly dashboard**.
 
 This project demonstrates a practical data engineering workflow, from API ingestion and data transformation to data-quality validation, database storage, SQL analytics, and visualization.
